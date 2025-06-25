@@ -20,32 +20,32 @@ This will be achieved through structured SQL queries and data modeling technique
 The methodology for this project follows a structured approach to ensure accurate, actionable, and insightful analysis of Kultra Mega Stores’ (KMS) order data from 2009 to 2012. The steps below outline the process used to address both case scenarios shared by the Business Manager, using SQL and business analysis techniques:
 
   1.  ## **$${\color{Lightblue}Business \space Context}$$**
-  - **Company:** Kultra Mega Stores (KMS)
-  - **Division of Interest:** Abuja
-  - **Products:** Office supplies and furniture
-  - **Customer Segments:** Individual, Retail (small businesses), Wholesale (large corporate clients)
-  - **Goal:** Provide key insights based on sales data (2009–2012) to support decision-making for the Abuja branch.
+      - **Company:** Kultra Mega Stores (KMS)
+      - **Division of Interest:** Abuja
+      - **Products:** Office supplies and furniture
+      - **Customer Segments:** Individual, Retail (small businesses), Wholesale (large corporate clients)
+      - **Goal:** Provide key insights based on sales data (2009–2012) to support decision-making for the Abuja branch.
 
   2. ## **$${\color{Lightblue}Analysis \space \space Objectives \space Case \space Scenario \space I}$$**
-  - Which product category had the highest sales?
+     - Which product category had the highest sales?
 
-  - What are the Top 3 and Bottom 3 regions in terms of sales?
+     - What are the Top 3 and Bottom 3 regions in terms of sales?
 
-  - What were the total sales of appliances in Ontario?
+     - What were the total sales of appliances in Ontario?
 
-  - Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
+     - Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
 
-  - KMS incurred the most shipping cost using which shipping method?
+     - KMS incurred the most shipping cost using which shipping method?
 
   2. ## **$${\color{Lightblue}Case \space Scenario \space II}$$**
      - Who are the most valuable customers, and what products or services do they typically purchase?
 
-  - Which small business customer had the highest sales?
+     - Which small business customer had the highest sales?
 
-  - Which Corporate Customer placed the most number of orders in 2009 – 2012?
+     - Which Corporate Customer placed the most number of orders in 2009 – 2012?
 
-  - Which consumer customer was the most profitable one?
+     - Which consumer customer was the most profitable one?
 
-  - Which customer returned items, and what segment do they belong to?
+     - Which customer returned items, and what segment do they belong to?
 
-  - If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.
+     - If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.
