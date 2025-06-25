@@ -65,3 +65,4 @@ The methodology for this project follows a structured approach to ensure accurat
      - Cleaned data was loaded into SQL Database
 
   5. ## **$${\color{Lightblue}SQL \space Queries \space Design \space to \space solve \space the \space given \space Case \space Scenarios}$$**
+## **Case Scenario 1** *Approach & SQL Logic*
