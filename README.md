@@ -49,3 +49,15 @@ The methodology for this project follows a structured approach to ensure accurat
      - Which customer returned items, and what segment do they belong to?
 
      - If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.
+    
+  3. ## **$${\color{Lightblue}Data \space Preparation(ETL \space Process)}$$**
+ - **Extraction**
+   - Extraction was done by using excel tools and the file was saved in Csv format in other to be loaded in to SQL Properly
+
+ - **Transformation** 
+(Data cleaning and Structured):
+     - Removal of duplicates
+
+     - Standardize column names
+
+     - Data types are appropriate Ensured (e.g., dates, numeric)
