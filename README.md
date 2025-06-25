@@ -66,3 +66,5 @@ The methodology for this project follows a structured approach to ensure accurat
 
   5. ## **$${\color{Lightblue}SQL \space Queries \space Design \space to \space solve \space the \space given \space Case \space Scenarios}$$**
 ## **Case Scenario 1** *Approach & SQL Logic*
+
+1. $${\color{red}Which \space product \space category \space had \space the \space highest \space sales?}$$
