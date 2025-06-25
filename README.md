@@ -1,4 +1,5 @@
 # Kultra-Mega-Stores-Inventory-PROJECT
 This is my one of Case Study (Project) to work on as a Data Analyst during Incubator Hub Program
 
-# $${\color{blue}INTRODUCTION}$$
+# <$${\color{Lightblue}INTRODUCTION}$$>
+Kultra Mega Stores (KMS) is a Lagos-based retail company specializing in office supplies and furniture. The company serves a diverse customer base comprising individual consumers, small businesses (retail), and large corporate clients (wholesale) throughout Lagos, Nigeria. As part of KMS’s expansion and performance tracking efforts in the Abuja division, I have been engaged as a Business Intelligence Analyst to support data-driven decision-making. My role involves analyzing historical order data provided, which spans the period from 2009 to 2012. Using SQL skills, I will examine this dataset to uncover key business insights. These insights aim to support the Abuja division’s strategy in areas such as customer segmentation, sales performance, product demand, and operational efficiency. The analysis will be guided by some given case scenarios, and the final output will include actionable findings, visualizations, and recommendations based on trends and patterns observed in the data.
