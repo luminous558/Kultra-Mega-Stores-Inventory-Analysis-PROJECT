@@ -68,3 +68,17 @@ The methodology for this project follows a structured approach to ensure accurat
   ### **Case Scenario 1** *Approach & SQL Logic*
 
 1. $${\color{red}Which \space product \space category \space had \space the \space highest \space sales?}$$
+
+Below is the Queries for Question
+```` SQL
+SELECT TOP 1 product_category, SUM(sales) as Total_Sales
+FROM [Kultra Mega Store]
+GROUP BY product_category
+ORDER BY Total_Sales DESC
+````
+RESULT
+
+````
+product_category	Total_Sales
+Technology	      5984248.17547321
+````
