@@ -160,3 +160,15 @@ RESULT
 | *Rick Huthwaite* |	*415.819980621338* |
 | *Mark Hamilton* |	*450.990005493164* |
 
+$${\color{green}Base \space on \space the \space analysis \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space is \space to;}$$
+   - $${\color{green}Analyze \space purchasing \space behavior \space of \space these \space 10 \space customers;}$$
+   - Which products do they buy (if any)?
+   - Are their orders infrequent or low in value?
+  
+  And my Recommendations are to;
+   - Targeted Promotions (e.g., discounts or loyalty rewards)
+   - Email Marketing for product recommendations
+   - Personalized bundles based on past small purchases
+   - Survey to find out if they faced service/product issues
+
+
