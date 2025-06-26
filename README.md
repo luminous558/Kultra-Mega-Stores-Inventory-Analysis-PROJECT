@@ -160,7 +160,7 @@ RESULT
 | *Rick Huthwaite* |	*415.819980621338* |
 | *Mark Hamilton* |	*450.990005493164* |
 
-$${\color{green}Base \space on \space the \space analysis \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space is \space to;}$$
+$${\color{green}Base \space on \space the \space analysis \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space are \space to;}$$
    - $${\color{green}Analyze \space purchasing \space behavior \space of \space these \space 10 \space customers;}$$
    - Which products do they buy (if any)?
    - Are their orders infrequent or low in value?
@@ -171,4 +171,19 @@ $${\color{green}Base \space on \space the \space analysis \space My \space Advis
    - Personalized bundles based on past small purchases
    - Survey to find out if they faced service/product issues
 
+5. $${\color{red}KMS \space incurred \space the \space most \space shipping \space cost \space using \space which \space shipping \space method?}$$
 
+Below are the Queries for the Question;
+```` SQL
+SELECT TOP 1 ship_mode, SUM(Shipping_Cost) as Total_Shipping_Cost
+FROM [Kultra Mega Store]
+GROUP BY Ship_mode
+ORDER BY Total_Shipping_Cost DESC
+````
+RESULT
+
+| Ship_mode | Total_Shipping_Cost |
+| --- | --- |
+| *Delivery Truck* | *51,971.9397373199* |
+
+$${\color{green}Base \space on \space the \space abve \space analysis, \space The \space Shipping \space mode \space that \space costs \space most \space is \space **DELIVERY-TRUCK** \space and}$$ $${\color{green}I \space Suggest \space it \space should \space be \space the \space Most \space Shipping \space mode \space to \space be \space Focus \space on}$$
