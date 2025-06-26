@@ -69,7 +69,7 @@ The methodology for this project follows a structured approach to ensure accurat
 
 1. $${\color{red}Which \space product \space category \space had \space the \space highest \space sales?}$$
 
-Below is the Queries for Question;
+Below are the Queries for the Question;
 ```` SQL
 SELECT TOP 1 product_category, SUM(sales) as Total_Sales
 FROM [Kultra Mega Store]
@@ -117,3 +117,23 @@ RESULT
 | *Yukon* |	*975,867.375723362* |
 
 $${\color{green}The \space result \space above \space Shows \space the \space highest \space and \space lowest \space performing \space regions}$$
+
+3. $${\color{red}What \space were \space the \space total \space sales \space of \space appliances \space in \space Ontario?}$$
+
+Below are the Queries for the Question;
+```` SQL
+SELECT Region, SUM(sales) as Total_Appliances
+FROM [Kultra Mega Store]
+WHERE Region = 'ontario'
+GROUP BY Region
+ORDER BY Total_Appliances ASC
+````
+RESULT
+| Region | Total_Appliances |
+| --- | --- |
+| *Ontario* | *3,063,212.47638369* |
+
+$${\color{green}The \space result \space above \space gives \space Targeted \space insight \space into \space Ontario's \space appliances \space performance}$$
+
+4. $${\color{red}Advise \space KMS \space on \space what \space to \space do \space to \space increase \space the \space revenue \space from \space the \space bottom \space 10 \space customers \space Recommendations \space based \space on \space analysis}$$
+
