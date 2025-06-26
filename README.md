@@ -101,3 +101,19 @@ RESULT
 | *Ontario* |	*3,063,212.47638369* |
 | *Prarie* |	*2,837,304.60503292* |
 
+BOTTOM 3 Queries;
+```` SQL
+SELECT TOP 3 region, SUM(sales) as Total_Sales
+FROM [Kultra Mega Store]
+GROUP BY region
+ORDER BY Total_Sales ASC
+````
+RESULT
+
+| Region | Total_Sales |
+| --- | --- |
+| *Nunavut* |	*116,376.48383522* |
+| *Northwest Territories* |	*800,847.330903053* |
+| *Yukon* |	*975,867.375723362* |
+
+$${\color{green}The \space result \space above \space Shows \space the \space highest \space and \space lowest \space performing \space regions}$$
