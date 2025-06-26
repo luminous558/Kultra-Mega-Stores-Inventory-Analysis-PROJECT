@@ -129,6 +129,7 @@ GROUP BY Region
 ORDER BY Total_Appliances ASC
 ````
 RESULT
+
 | Region | Total_Appliances |
 | --- | --- |
 | *Ontario* | *3,063,212.47638369* |
@@ -136,4 +137,26 @@ RESULT
 $${\color{green}The \space result \space above \space gives \space Targeted \space insight \space into \space Ontario's \space appliances \space performance}$$
 
 4. $${\color{red}Advise \space KMS \space on \space what \space to \space do \space to \space increase \space the \space revenue \space from \space the \space bottom \space 10 \space customers \space Recommendations \space based \space on \space analysis}$$
+
+Below are the Queries for the Question;
+```` SQL
+SELECT TOP 10 Customer_name, SUM(sales) as Total_Sales
+FROM [Kultra Mega Store]
+GROUP BY Customer_name
+ORDER BY Total_Sales ASC
+````
+RESULT
+
+| Customer_name | Total_Sales |
+| --- | --- |
+| *Jeremy Farry* |	*85.7200021743774* |
+| *Natalie DeCherney* |	*125.900001525879* |
+| *Nicole Fjeld* |	*153.030006408691* |
+| *Katrina Edelman* |	*180.760005950928* |
+| *Dorothy Dickinson* |	*198.080001831055* |
+| *Christine Kargatis* |	*293.2200050354* |
+| *Eric Murdock* |	*343.32799911499* |
+| *Chris McAfee* |	*350.180004119873* |
+| *Rick Huthwaite* |	*415.819980621338* |
+| *Mark Hamilton* |	*450.990005493164* |
 
