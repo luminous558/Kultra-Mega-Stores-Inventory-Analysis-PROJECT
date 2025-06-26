@@ -69,7 +69,7 @@ The methodology for this project follows a structured approach to ensure accurat
 
 1. $${\color{red}Which \space product \space category \space had \space the \space highest \space sales?}$$
 
-Below is the Queries for Question
+Below is the Queries for Question;
 ```` SQL
 SELECT TOP 1 product_category, SUM(sales) as Total_Sales
 FROM [Kultra Mega Store]
@@ -83,3 +83,21 @@ RESULT
 | *Technology* | *5,984,248.17547321* |
 
 $${\color{green}The \space result \space above \space gives \space the \space top-selling \space product \space category \space by \space total \space sales \space value}$$
+
+2. $${\color{red}What \space are \space the \space Top \space 3 \space and \space Bottom \space 3 \space regions \space in \space terms \space of \space sales?}$$
+
+TOP 3 Queries;
+```` SQL
+SELECT TOP 3 region, SUM(sales) as Total_Sales
+FROM [Kultra Mega Store]
+GROUP BY region
+ORDER BY Total_Sales DESC
+````
+RESULT
+
+| Region | Total_Sales |
+| --- | --- |
+| *West* |	*3,597,549.269871* |
+| *Ontario* |	*3,063,212.47638369* |
+| *Prarie* |	*2,837,304.60503292* |
+
