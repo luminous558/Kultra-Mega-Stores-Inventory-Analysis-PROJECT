@@ -78,7 +78,7 @@ ORDER BY Total_Sales DESC
 ````
 RESULT
 
-````
-product_category	Total_Sales
-Technology	      5984248.17547321
-````
+| product_category | Total_Sales |
+| --- | --- |
+| *Technology* | *5,984,248.17547321* |
+
