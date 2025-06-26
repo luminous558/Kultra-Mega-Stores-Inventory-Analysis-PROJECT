@@ -82,4 +82,4 @@ RESULT
 | --- | --- |
 | *Technology* | *5,984,248.17547321* |
 
- $${\color{lightgreen}The \space result \space above \space gives \space the \space top-selling \space product \space category \space by \space total \space sales \space value}$$
+$${\color{green}The \space result \space above \space gives \space the \space top-selling \space product \space category \space by \space total \space sales \space value}$$
