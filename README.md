@@ -195,7 +195,7 @@ RESULT
 ### **Case Scenario 2**
 6. $${\color{red}Who \space are \space the \space most \space valuable \space customers, \space and \space what \space products \space or \space services \space do \space they \space typically \space purchase?}$$
 
-Queries for the most valuable customers by total sales;
+Below are the Queries for the most valuable customers by total sales;
 ``` SQL
 SELECT TOP 5 Customer_Name, SUM(sales) as Total_Sales
 FROM [Kultra Mega Store]
@@ -212,7 +212,7 @@ RESULT
 | *Sylvia Foulston* | *88,875.7581214905* |
 | *Grant Carroll* | *88,417.0006103516* |
 
-Queries for the Product/Services they purchase;
+Below are the Queries for the Product/Services they purchase;
 ```` SQL
 SELECT Customer_Name, Product_Category, SUM(sales) as Category_Sales
 FROM [Kultra Mega Store]
@@ -250,6 +250,6 @@ RESULT
 - $${\color{green}Use \space their \space purchase \space behavior \space to \space design \space future \space promotions}$$
 
 
-7. $${\color{red}Which small business customer had the highest sales?}$$
+7. $${\color{red}Which \space small \space business \space customer \space had \space the \space highest \space sales?}$$
 
-Queries for small business customer that has the highest sales 
+Below are the Queries for small business customer that has the highest sales 
