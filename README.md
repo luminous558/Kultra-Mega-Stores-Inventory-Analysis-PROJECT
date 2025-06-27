@@ -192,3 +192,51 @@ $${\color{green}Base \space on \space the \space abve \space analysis, \space Th
 
 ### **Case Scenario 2**
 6. $${\color{red}Who \space are \space the \space most \space valuable \space customers, \space and \space what \space products \space or \space services \space do \space they \space typically \space purchase?}$$
+
+Queries for the most valuable customers by total sales;
+``` SQL
+SELECT TOP 5 Customer_Name, SUM(sales) as Total_Sales
+FROM [Kultra Mega Store]
+GROUP BY Customer_Name
+ORDER BY Total_Sales DESC
+```
+RESULT
+
+| Customer_Name | Total_Sales |
+| --- | --- |
+| *Emily Phan* | *117,124.435264587* |
+| *Deborah Brumfield* | *97,433.1346206665* |
+| *Roy Skaria* | 92,542.1531906128* |
+| *Sylvia Foulston* | *88,875.7581214905* |
+| *Grant Carroll* | *88,417.0006103516* |
+
+Queries for the Product/Services they purchase;
+```` SQL
+SELECT Customer_Name, Product_Category, SUM(sales) as Category_Sales
+FROM [Kultra Mega Store]
+WHERE Customer_Name	IN (
+	SELECT TOP 5 Customer_Name
+	FROM [Kultra Mega Store]
+	GROUP BY Customer_Name
+	ORDER BY SUM(sales) DESC
+````
+
+RESULT
+
+| Customer_Name |	Product_Category | Category_Sales |
+| :--- | :---: | ---: |
+| Deborah Brumfield |	Technology | 76,795.7947387695 |
+| Deborah Brumfield |	Furniture |	12,809.6198730469 |
+| Deborah Brumfield |	Office Supplies |	7,827.7200088501 |
+| Emily Phan |	Technology |	110,481.965362549 |
+| Emily Phan |	Furniture |	4,011.64990234375 |
+| Emily Phan |	Office Supplies |	2,630.81999969482 |
+| Grant Carroll |	Office Supplies |	50,837.2688293457 |
+| Grant Carroll |	Furniture |	29,826.8493652344 |
+| Grant Carroll |	Technology |	7,752.88241577148 |
+| Roy Skaria |	Furniture |	50,177.2399902344 |
+| Roy Skaria |	Technology |	30,349.3932495117 |
+| Roy Skaria |	Office Supplies |	12,015.5199508667 |
+| Sylvia Foulston |	Furniture |	48,173.3799133301 |
+| Sylvia Foulston |	Technology |	29,669.0381469727 |
+| Sylvia Foulston |	Office Supplies |	11,033.3400611877 |
