@@ -190,4 +190,5 @@ RESULT
 
 $${\color{green}Base \space on \space the \space abve \space analysis, \space The \space Shipping \space mode \space that \space costs \space most \space is \space **DELIVERY-TRUCK** \space and}$$ $${\color{green}I \space Suggest \space if \space the \space company \space can \space renegotiate \space with \space couriers \space or \space shift \space to \space more \space cost-effective \space options}$$
 
-
+### **Case Scenario 2**
+6. $${\color{red}Who \space are \space the \space most \space valuable \space customers, \space and \space what \space products \space or \space services \space do \space they \space typically \space purchase?}$$
