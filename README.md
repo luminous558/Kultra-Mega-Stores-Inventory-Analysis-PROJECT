@@ -160,13 +160,13 @@ RESULT
 | *Rick Huthwaite* |	*415.819980621338* |
 | *Mark Hamilton* |	*450.990005493164* |
 
-$${\color{green}Base \space on \space the \space analysis, \space The \space customers \space above \space contribute \space very\space little \space to \space total \space sales \space volume.}$$ $${\color{green}and \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space are \space to;}$$
+✅  $${\color{green}Base \space on \space the \space analysis, \space The \space customers \space above \space contribute \space very\space little \space to \space total \space sales \space volume.}$$ $${\color{green}and \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space are \space to;}$$
    - $${\color{green}Analyze \space purchasing \space behavior \space of \space these \space 10 \space customers;}$$
    - $${\color{green}Which \space products \space do \space they \space buy \space (if \space any)?}$$
    - $${\color{green}Are \space their \space orders \space in \space frequent \space or \space low \space in \space value?}$$
 
 
-     - $${\color{green}And \space my \space Recommendations \space are \space to;}$$
+     📌 $${\color{green}And \space my \space Recommendations \space are \space to;}$$
    - $${\color{green}Offer \space them \space personalized \space discounts \space or \space targeted \space email \space follow-ups.}$$
    - $${\color{green}Analyze \space their \space order \space history \space and \space recommend \space frequently \space bought \space items.}$$
    - $${\color{green}Bundle \space offers \space to \space encourage \space higher-value \space purchases.}$$
@@ -188,7 +188,9 @@ RESULT
 | --- | --- |
 | *Delivery Truck* | *51,971.9397373199* |
 
-$${\color{green}Base \space on \space the \space abve \space analysis, \space The \space Shipping \space mode \space that \space costs \space most \space is \space **DELIVERY-TRUCK** \space and}$$ $${\color{green}I \space Suggest \space if \space the \space company \space can \space renegotiate \space with \space couriers \space or \space shift \space to \space more \space cost-effective \space options}$$
+✅  $${\color{green}Base \space on \space the \space abve \space analysis, \space The \space Shipping \space mode \space that \space costs \space most \space is \space **DELIVERY-TRUCK**}$$ 
+
+📌  $${\color{green}and \space I \space Suggest \space if \space the \space company \space can \space renegotiate \space with \space couriers \space or \space shift \space to \space more \space cost-effective \space options}$$
 
 ### **Case Scenario 2**
 6. $${\color{red}Who \space are \space the \space most \space valuable \space customers, \space and \space what \space products \space or \space services \space do \space they \space typically \space purchase?}$$
@@ -240,3 +242,14 @@ RESULT
 | Sylvia Foulston |	Furniture |	48,173.3799133301 |
 | Sylvia Foulston |	Technology |	29,669.0381469727 |
 | Sylvia Foulston |	Office Supplies |	11,033.3400611877 |
+
+✅  $${\color{green}Above \space Result \space is \space the \space Top \space customers \space generate \space the \space majority \space of \space revenue \space and \space usually \space purchase \space from \space specific \space categories.}$$
+
+📌 $${\color{green}And \space I \space Recommended \space to;}$$
+- $${\color{green}Offer \space them \space loyalty \space rewards, \space custom \space offers, \space and \space premium \space services}$$
+- $${\color{green}Use \space their \space purchase \space behavior \space to \space design \space future \space promotions}$$
+
+
+7. $${\color{red}Which small business customer had the highest sales?}$$
+
+Queries for small business customer that has the highest sales 
