@@ -160,16 +160,18 @@ RESULT
 | *Rick Huthwaite* |	*415.819980621338* |
 | *Mark Hamilton* |	*450.990005493164* |
 
-$${\color{green}Base \space on \space the \space analysis \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space are \space to;}$$
+$${\color{green}Base \space on \space the \space analysis, \space The \space customers \space above \space contribute \space very\space little \space to \space total \space sales \space volume.}$$ $${\color{green}and \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space are \space to;}$$
    - $${\color{green}Analyze \space purchasing \space behavior \space of \space these \space 10 \space customers;}$$
    - $${\color{green}Which \space products \space do \space they \space buy \space (if \space any)?}$$
    - $${\color{green}Are \space their \space orders \space in \space frequent \space or \space low \space in \space value?}$$
-  
+
+
      - $${\color{green}And \space my \space Recommendations \space are \space to;}$$
-   - $${\color{green}Targeted \space Promotions \space (e.g., \space discounts \space or \space loyalty \space rewards)}$$
-   - $${\color{green}Email \space Marketing \space for \space product \space recommendations}$$
-   - $${\color{green}Personalized \space bundles \space based \space on \space past \space small \space purchases}$$
-   - $${\color{green}Survey \space to \space find \space out \space if \space they \space faced \space service/product \space issues}$$
+   - $${\color{green}Offer \space them \space personalized \space discounts \space or \space targeted \space email \space follow-ups.}$$
+   - $${\color{green}Analyze \space their \space order \space history \space and \space recommend \space frequently \space bought \space items.}$$
+   - $${\color{green}Bundle \space offers \space to \space encourage \space higher-value \space purchases.}$$
+   - $${\color{green}Survey \space to \space find \space out \space if \space they \space faced \space service/product \space issues.}$$
+
 
 5. $${\color{red}KMS \space incurred \space the \space most \space shipping \space cost \space using \space which \space shipping \space method?}$$
 
@@ -186,4 +188,6 @@ RESULT
 | --- | --- |
 | *Delivery Truck* | *51,971.9397373199* |
 
-$${\color{green}Base \space on \space the \space abve \space analysis, \space The \space Shipping \space mode \space that \space costs \space most \space is \space **DELIVERY-TRUCK** \space and}$$ $${\color{green}I \space Suggest \space it \space should \space be \space the \space Most \space Shipping \space mode \space to \space be \space Focus \space on}$$
+$${\color{green}Base \space on \space the \space abve \space analysis, \space The \space Shipping \space mode \space that \space costs \space most \space is \space **DELIVERY-TRUCK** \space and}$$ $${\color{green}I \space Suggest \space if \space the \space company \space can \space renegotiate \space with \space couriers \space or \space shift \space to \space more \space cost-effective \space options}$$
+
+
