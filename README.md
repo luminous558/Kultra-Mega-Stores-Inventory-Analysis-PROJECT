@@ -253,3 +253,15 @@ RESULT
 7. $${\color{red}Which \space small \space business \space customer \space had \space the \space highest \space sales?}$$
 
 Below are the Queries for small business customer that has the highest sales 
+```` SQL
+SELECT TOP 1 Customer_Name, SUM(sales) as Total_Sales
+FROM [Kultra Mega Store]
+WHERE Customer_Segment = 'Small Business'
+GROUP BY Customer_Name
+ORDER BY Total_Sales DESC
+````
+RESULT
+
+| Customer_Name | Total_Sales |
+| --- | --- |
+| Dennis Kane |	75967.5932159424 |
