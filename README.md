@@ -265,3 +265,5 @@ RESULT
 | Customer_Name | Total_Sales |
 | --- | --- |
 | *Dennis Kane* | *75,967.5932159424 |
+
+✅  $${\color{green}Above result shows a small business client wich is a major contributor to the segment’s revenue.}$$
