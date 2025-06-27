@@ -264,4 +264,4 @@ RESULT
 
 | Customer_Name | Total_Sales |
 | --- | --- |
-| Dennis Kane |	75967.5932159424 |
+| *Dennis Kane* | *75,967.5932159424 |
