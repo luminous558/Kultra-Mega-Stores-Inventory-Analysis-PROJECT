@@ -162,14 +162,14 @@ RESULT
 
 $${\color{green}Base \space on \space the \space analysis \space My \space Advise \space for \space KMS \space Organisation, \space in \space other \space to \space increase \space the \space revenue \space from \space this \space bottom \space 10 \space customers \space are \space to;}$$
    - $${\color{green}Analyze \space purchasing \space behavior \space of \space these \space 10 \space customers;}$$
-   - Which products do they buy (if any)?
-   - Are their orders infrequent or low in value?
+   - $${\color{green}Which \space products \space do \space they \space buy \space (if \space any)?}$$
+   - $${\color{green}Are \space their \space orders \space in \space frequent \space or \space low \space in \space value?}$$
   
-  And my Recommendations are to;
-   - Targeted Promotions (e.g., discounts or loyalty rewards)
-   - Email Marketing for product recommendations
-   - Personalized bundles based on past small purchases
-   - Survey to find out if they faced service/product issues
+     - $${\color{green}And \space my \space Recommendations \space are \space to;}$$
+   - $${\color{green}Targeted \space Promotions \space (e.g., \space discounts \space or \space loyalty \space rewards)}$$
+   - $${\color{green}Email \space Marketing \space for \space product \space recommendations}$$
+   - $${\color{green}Personalized \space bundles \space based \space on \space past \space small \space purchases}$$
+   - $${\color{green}Survey \space to \space find \space out \space if \space they \space faced \space service/product \space issues}$$
 
 5. $${\color{red}KMS \space incurred \space the \space most \space shipping \space cost \space using \space which \space shipping \space method?}$$
 
