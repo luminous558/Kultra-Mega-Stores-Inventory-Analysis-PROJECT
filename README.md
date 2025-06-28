@@ -264,6 +264,15 @@ RESULT
 
 | Customer_Name | Total_Sales |
 | --- | --- |
-| *Dennis Kane* | *75,967.5932159424 |
+| *Dennis Kane* | *75,967.5932159424* |
 
 ✅  $${\color{green}Above result shows a small business client wich is a major contributor to the segment’s revenue.}$$
+
+📌  $${\color{green}And \space my \space Recommendations \space are:}$$
+
+- $${\color{green}Assign \space a \space key \space account \space manager.}$$
+
+- $${\color{green}Offer \space subscription-style \space or \space repeat \space order \space discounts.}$$
+
+- $${\color{green}Collect \space feedback \space regularly \space to \space keep them \space satisfied.}$$
+
