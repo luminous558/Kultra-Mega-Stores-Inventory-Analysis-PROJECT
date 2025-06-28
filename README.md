@@ -326,7 +326,14 @@ RESULT
 10. $${\color{red}Which \space customer \space returned \space items, \space and \space what \space segment \space do \space they \space belong \space to?}$$
 
 Below are the Queries for the question;
-
+```` SQL
+SELECT o.customer_name, o.customer_segment
+FROM [Kultra Mega Store] as o
+JOIN 
+Order_Status as r 
+ON o.order_id = r.order_id
+````
+RESULT
 
 
 
