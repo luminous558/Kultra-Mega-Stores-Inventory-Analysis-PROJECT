@@ -82,7 +82,7 @@ RESULT
 | --- | --- |
 | *Technology* | *5,984,248.17547321* |
 
-$${\color{green}The \space result \space above \space gives \space the \space top-selling \space product \space category \space by \space total \space sales \space value}$$
+✅  $${\color{green}The \space result \space above \space gives \space the \space top-selling \space product \space category \space by \space total \space sales \space value}$$
 
 2. $${\color{red}What \space are \space the \space Top \space 3 \space and \space Bottom \space 3 \space regions \space in \space terms \space of \space sales?}$$
 
@@ -116,7 +116,7 @@ RESULT
 | *Northwest Territories* |	*800,847.330903053* |
 | *Yukon* |	*975,867.375723362* |
 
-$${\color{green}The \space result \space above \space Shows \space the \space highest \space and \space lowest \space performing \space regions}$$
+✅  $${\color{green}The \space result \space above \space Shows \space the \space highest \space and \space lowest \space performing \space regions}$$
 
 3. $${\color{red}What \space were \space the \space total \space sales \space of \space appliances \space in \space Ontario?}$$
 
@@ -134,7 +134,7 @@ RESULT
 | --- | --- |
 | *Ontario* | *3,063,212.47638369* |
 
-$${\color{green}The \space result \space above \space gives \space Targeted \space insight \space into \space Ontario's \space appliances \space performance}$$
+✅  $${\color{green}The \space result \space above \space gives \space Targeted \space insight \space into \space Ontario's \space appliances \space performance}$$
 
 4. $${\color{red}Advise \space KMS \space on \space what \space to \space do \space to \space increase \space the \space revenue \space from \space the \space bottom \space 10 \space customers \space Recommendations \space based \space on \space analysis}$$
 
