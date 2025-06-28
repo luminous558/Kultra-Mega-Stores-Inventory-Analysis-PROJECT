@@ -245,7 +245,7 @@ RESULT
 
 ✅  $${\color{green}Above \space Result \space is \space the \space Top \space customers \space generate \space the \space majority \space of \space revenue \space and \space usually \space purchase \space from \space specific \space categories.}$$
 
-📌 $${\color{green}And \space I \space Recommended \space to;}$$
+📌 $${\color{green}And \space I \space Recommended \space that \space the \space company \space should;}$$
 - $${\color{green}Offer \space them \space loyalty \space rewards, \space custom \space offers, \space and \space premium \space services}$$
 - $${\color{green}Use \space their \space purchase \space behavior \space to \space design \space future \space promotions}$$
 
@@ -260,11 +260,12 @@ WHERE Customer_Segment = 'Small Business'
 GROUP BY Customer_Name
 ORDER BY Total_Sales DESC
 ````
+
 RESULT
 
 | Customer_Name | Total_Sales |
 | --- | --- |
-| *Dennis Kane* | *75,967.5932159424* | This is a high-potential client that could scale purchases over time.
+| *Dennis Kane* | *75,967.5932159424* |
 
 ✅  $${\color{green}Above \space result \space shows \space a \space high-potential \space client \space that \space could \space scale  \space purchases \space over \space time.}$$
 
@@ -274,4 +275,42 @@ RESULT
 
 - $${\color{green}Explore \space long-term \space contract or \space partnership \space models.}$$
 
+8. $${\color{red}Which \space Corporate \space Customer \space placed \space the \space most \space placed \space the \space most \space number \space of \space orders \space in \space 2009 – 2012?}$$
 
+Below are the Queries for Corporate Customer that placed the most number of orders in 2009 – 2012?
+```` SQL
+SELECT TOP 1 customer_name, COUNT(order_id) as Order_Count
+FROM [Kultra Mega Store]
+WHERE customer_segment = 'Corporate'
+  AND order_date BETWEEN '2009-01-01' AND '2012-12-31'
+GROUP BY Customer_Name
+ORDER BY Order_Count DESC
+````
+
+RESULT
+
+| customer_name | Order_Count |
+| --- | --- |
+| *Adam Hart* |	*27* |
+
+✅  $${\color{green}Above \space result \space shows \space that, \space the \space particular \space customer \space relies \space heavily \space on \space KMS \space for \space frequent \space purchases.}$$
+
+📌 $${\color{green}And \space I \space Recommended \space that \space the \space company \space should;}$$
+- $${\color{green}Assign \space a \space key \space account \space manager}$$
+- $${\color{green}Offer \space subscription-style \space or \space repeat \space order \space discounts}$$
+- $${\color{green}Collect \space feedback \space regularly \space to \space keep \space them \space satisfied}$$
+
+9. $${\color{red}Which \space consumer \space customer \space was \space the \space most \space profitable \space one?}$$
+Below are the Queries for the most profitable consumer customer
+```` SQL
+SELECT TOP 1 customer_name, SUM(Profit) as Total_Profit
+FROM [Kultra Mega Store]
+WHERE customer_segment = 'Consumer'
+GROUP BY Customer_Name
+ORDER BY Total_Profit DESC
+````
+RESULT
+
+| customer_name | Total_Profit |
+| --- | --- |
+| *Emily Phan* | *34,005.4392166138* |
