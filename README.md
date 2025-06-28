@@ -301,6 +301,7 @@ RESULT
 - $${\color{green}Collect \space feedback \space regularly \space to \space keep \space them \space satisfied}$$
 
 9. $${\color{red}Which \space consumer \space customer \space was \space the \space most \space profitable \space one?}$$
+
 Below are the Queries for the most profitable consumer customer
 ```` SQL
 SELECT TOP 1 customer_name, SUM(Profit) as Total_Profit
@@ -314,3 +315,47 @@ RESULT
 | customer_name | Total_Profit |
 | --- | --- |
 | *Emily Phan* | *34,005.4392166138* |
+
+✅  $${\color{green}The \space above \space consumer \space customer \space contributes \space more \space profit \space than \space others \space and \space possibly \space through \space high-margin \space products}$$
+
+📌 $${\color{green}And \space I \space Recommended \space that \space the \space company \space should;}$$
+
+- $${\color{green}Understand \space their \space preferences \space and \space promote \space similar \space items}$$
+- $${\color{green}Invite \space them \space to \space referral \space programs \space or \space special \space preview \space sales}$$
+
+10. $${\color{red}Which \space customer \space returned \space items, \space and \space what \space segment \space do \space they \space belong \space to?}$$
+
+Below are the Queries for the question;
+
+
+
+
+11. $${\color{red}Did \space KMS \space spend \space shipping \space costs \space appropriately \space based \space on \space Order \space Priority?}$$
+
+Below are the Queries that determine if KMS spend shipping costs appropriately based on Order Priority;
+```` SQL
+SELECT order_Priority, ship_mode, COUNT(order_id) as Orders,
+		SUM(shipping_cost) as Total_shipping_Cost
+FROM [Kultra Mega Store]
+GROUP BY order_Priority, ship_mode
+ORDER BY order_Priority, Total_shipping_Cost DESC
+````
+RESULT
+
+| order_Priority | ship_mode | Orders |	Total_shipping_Cost |
+| --- | --- | --- | --- |
+| Critical | Delivery Truck | 228 | 10783.8199481964 |
+| Critical | Regular Air | 1180 | 8586.75996172428 |
+| Critical | Express Air | 200 |1742.09998804331 |
+| High | Delivery Truck | 248 |	11206.8799371719 |
+High	Regular Air	1308	10005.0099598169
+High	Express Air	212	1453.5299910903
+Low	Delivery Truck	250	11131.6099338531
+Low	Regular Air	1280	10263.619956553
+Low	Express Air	190	1551.62999778986
+Medium	Delivery Truck	205	9461.61997509003
+Medium	Regular Air	1225	9418.71996569633
+Medium	Express Air	201	1633.58999282122
+Not Specified	Regular Air	1277	9734.07996362448
+Not Specified	Delivery Truck	215	9388.00994300842
+Not Specified	Express Air	180	1470.05999219418
