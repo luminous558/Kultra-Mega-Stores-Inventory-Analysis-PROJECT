@@ -264,15 +264,14 @@ RESULT
 
 | Customer_Name | Total_Sales |
 | --- | --- |
-| *Dennis Kane* | *75,967.5932159424* |
+| *Dennis Kane* | *75,967.5932159424* | This is a high-potential client that could scale purchases over time.
 
-✅  $${\color{green}Above result shows a small business client wich is a major contributor to the segment’s revenue.}$$
+✅  $${\color{green}Above \space result \space shows \space a \space high-potential \space client \space that \space could \space scale  \space purchases \space over \space time.}$$
 
-📌  $${\color{green}And \space my \space Recommendations \space are:}$$
+📌  $${\color{green}And \space my \space Recommendations \space are  \space to:}$$
 
-- $${\color{green}Assign \space a \space key \space account \space manager.}$$
+- $${\color{green}Offer \space exclusive \space deals \space and \space early \space access \space to \space stock.}$$
 
-- $${\color{green}Offer \space subscription-style \space or \space repeat \space order \space discounts.}$$
+- $${\color{green}Explore \space long-term \space contract or \space partnership \space models.}$$
 
-- $${\color{green}Collect \space feedback \space regularly \space to \space keep them \space satisfied.}$$
 
