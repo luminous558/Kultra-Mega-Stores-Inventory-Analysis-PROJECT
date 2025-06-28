@@ -343,19 +343,19 @@ ORDER BY order_Priority, Total_shipping_Cost DESC
 RESULT
 
 | order_Priority | ship_mode | Orders |	Total_shipping_Cost |
-| --- | --- | --- | --- |
-| Critical | Delivery Truck | 228 | 10783.8199481964 |
-| Critical | Regular Air | 1180 | 8586.75996172428 |
-| Critical | Express Air | 200 |1742.09998804331 |
-| High | Delivery Truck | 248 |	11206.8799371719 |
-High	Regular Air	1308	10005.0099598169
-High	Express Air	212	1453.5299910903
-Low	Delivery Truck	250	11131.6099338531
-Low	Regular Air	1280	10263.619956553
-Low	Express Air	190	1551.62999778986
-Medium	Delivery Truck	205	9461.61997509003
-Medium	Regular Air	1225	9418.71996569633
-Medium	Express Air	201	1633.58999282122
-Not Specified	Regular Air	1277	9734.07996362448
-Not Specified	Delivery Truck	215	9388.00994300842
-Not Specified	Express Air	180	1470.05999219418
+| :--- | :---: | :---: | ---: |
+| *Critical* | *Delivery Truck* | *228* | *10,783.8199481964* |
+| *Critical* | *Regular Air* | *1180* | *8,586.75996172428* |
+| *Critical* | *Express Air* | *200* | *1,742.09998804331* |
+| *High* | *Delivery Truck* | *248* |	*11,206.8799371719* |
+| *High* |	*Regular Air* |	*1308* |	*10,005.0099598169* |
+| *High* |	*Express Air* |	*212* |	*1,453.5299910903* |
+| *Low* |	*Delivery Truck* |	*250* |	*11,131.6099338531* |
+| *Low* |	*Regular Air* |	*1280* |	*10,263.619956553* |
+| *Low* |	*Express Air* |	*190* |	*1,551.62999778986* |
+| *Medium* |	*Delivery Truck* |	*205* |	*9,461.61997509003* |
+| *Medium* |	*Regular Air* |	*1225* |	*9,418.71996569633* |
+| *Medium* |	*Express Air* |	*201* |	*1,633.58999282122* |
+| *Not Specified* |	*Regular Air* |	*1277* |	*9,734.07996362448* |
+| *Not Specified* |	*Delivery Truck* |	*215* |	*9,388.00994300842* |
+| *Not Specified* |	*Express Air* |	*180* |	*1,470.05999219418* |
