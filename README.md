@@ -371,7 +371,6 @@ RESULT
 
 📌 $${\color{green}And \space I \space Recommended \space that \space the \space company \space should;}$$
 
-- $${\color{green}Automate \space shipping \space method \space selection \space based \space on \space order \space priority}$$
 - $${\color{green}Educate \space staff \space and \space system \space users \space about \space cost-efficient \space logistics}$$
 - $${\color{green}Monitor \space regularly \space with \space KPIs \space like \space “cost \space per \space delivery \space per \space priority \space level”}$$
-
+- $${\color{green}Automate \space shipping \space method \space selection \space based \space on \space order \space priority}$$
