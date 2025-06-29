@@ -366,3 +366,5 @@ RESULT
 | *Not Specified* |	*Regular Air* |	*1277* |	*9,734.07996362448* |
 | *Not Specified* |	*Delivery Truck* |	*215* |	*9,388.00994300842* |
 | *Not Specified* |	*Express Air* |	*180* |	*1,470.05999219418* |
+
+✅  $${\color{green}There \space is \space a \space mismatch — expensive \space methods \space are \space used \space even \space for \space low-priority \space orders}$$
