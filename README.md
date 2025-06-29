@@ -375,6 +375,8 @@ RESULT
 - $${\color{green}Monitor \space regularly \space with \space KPIs \space like \space “cost \space per \space delivery \space per \space priority \space level”}$$
 - $${\color{green}Automate \space shipping-mode \space selection \space based \space on \space order - priority}$$
 
+
+
 # $${\color{blue}Report \space Documentation \space in \space Presentation \space Structure}$$
 
 ## $${\color{lightgreen}Title \space Slide}$$
@@ -386,6 +388,9 @@ RESULT
 
  Abuja Division – (Based on Lagos Sales Data (2009–2012)
  
- PRESENTED BY: Azeez Ibrahim 
+ **PRESENTED BY**: Azeez Ibrahim 
  
- ROLE: Business Intelligence Analyst
+ **ROLE**: Business Intelligence Analyst
+
+
+Slide 2: Executive Summary
