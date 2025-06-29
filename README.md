@@ -406,11 +406,11 @@ RESULT
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 1}$$
 
-- 📌 Top Product Category: [e.g., Furniture] generated the highest revenue
+- 📌 Top Product Category: [TECHNOLOGY] generated the highest revenue
 
-- 🗺️ Top 3 Sales Regions: [Region A, Region B, Region C]
+- 🗺️ Top 3 Sales Regions: [WEST, ONTARIO, PRARIE]
 
-- ⚠️ Bottom 3 Sales Regions: [Region X, Region Y, Region Z]
+- ⚠️ Bottom 3 Sales Regions: [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
 
 - 💰 Appliance Sales in Ontario: $[XXX,XXX]
 
