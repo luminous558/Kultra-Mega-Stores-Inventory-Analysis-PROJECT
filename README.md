@@ -393,4 +393,12 @@ RESULT
  **ROLE**: Business Intelligence Analyst
 
 
-Slide 2: Executive Summary
+## $${\color{lightgreen}Executive \space Summary}$$
+
+- Analyzed order data from 2009–2012 across customer segments, regions, and shipping methods
+
+- Identified high-performing and low-performing categories, customers, and regions
+
+- Evaluated shipping costs vs. order priorities
+
+- Developed actionable recommendations to boost sales and operational efficiency
