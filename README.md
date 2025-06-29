@@ -378,3 +378,14 @@ RESULT
 # $${\color{blue}Report \space Documentation \space in \space Presentation \space Structure}$$
 
 ## $${\color{lightgreen}Title \space Slide}$$
+
+**TITLE**: Kultra-Mega-Stores-Inventory-PROJECT
+
+ 📊 Business Intelligence Insights & Strategic Recommendations
+
+
+ Abuja Division – (Based on Lagos Sales Data (2009–2012)
+ 
+ PRESENTED BY: Azeez Ibrahim 
+ 
+ ROLE: Business Intelligence Analyst
