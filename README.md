@@ -373,7 +373,7 @@ RESULT
 
 - $${\color{green}Educate \space staff \space and \space system \space users \space about \space cost-efficient \space logistics}$$
 - $${\color{green}Monitor \space regularly \space with \space KPIs \space like \space “cost \space per \space delivery \space per \space priority \space level”}$$
-- $${\color{green}Automate \space shipping-mode \space selection \space based \space on \space order - priority}$$
+- $${\color{green}Automate \space shipping \space mode \space selection \space based \space on \space order - priority}$$
 
 
 
@@ -402,3 +402,16 @@ RESULT
 - Evaluated shipping costs vs. order priorities
 
 - Developed actionable recommendations to boost sales and operational efficiency
+
+
+## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 1}$$
+
+- 📌 Top Product Category: [e.g., Furniture] generated the highest revenue
+
+- 🗺️ Top 3 Sales Regions: [Region A, Region B, Region C]
+
+- ⚠️ Bottom 3 Sales Regions: [Region X, Region Y, Region Z]
+
+- 💰 Appliance Sales in Ontario: $[XXX,XXX]
+
+- 🚚 Highest Shipping Cost: Express Air (needs review)
