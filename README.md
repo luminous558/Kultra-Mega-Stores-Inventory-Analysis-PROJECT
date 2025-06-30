@@ -414,15 +414,15 @@ RESULT
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 1}$$
 
-- 📌 **Top Product Category**: [TECHNOLOGY] generated the highest revenue
+- 📌 **Top Product Category**:  [TECHNOLOGY] generated the highest revenue
 
-- 🗺️ **Top 3 Sales Regions**: [WEST, ONTARIO, PRARIE]
+- 🗺️ **Top 3 Sales Regions**:  [WEST, ONTARIO, PRARIE]
 
-- ⚠️ **Bottom 3 Sales Regions**: [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
+- ⚠️ **Bottom 3 Sales Regions**:  [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
 
-- 💰 **Appliance Sales in Ontario**: $[3,063,212.47638369]
+- 💰 **Appliance Sales in Ontario**:  $[3,063,212.47638369]
 
-- 🚚 **Highest Shipping Cost**: Delivery Truck (needs review)
+- 🚚 **Highest Shipping Cost**:  Delivery Truck (needs review)
 
 ## $${\color{lightgreen}Recommendations – Scenario 1}$$
 
@@ -473,7 +473,7 @@ RESULT
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
 
-### $${\color{lightblue}Focus \space Area}$$ |		### $${\color{lightblue}Expected \space Outcome}$$
+### $${\color{lightblue}Focus \space Area}$$ |		 $${\color{lightblue}Expected \space Outcome}$$
 
 Product Strategy				Increased revenue from best sellers
 
