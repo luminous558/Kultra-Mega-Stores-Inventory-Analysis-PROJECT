@@ -335,6 +335,16 @@ ON o.order_id = r.order_id
 ````
 RESULT
 
+419 customers returned, mostly in Corporate segment
+
+
+✅  $${\color{green}Corporate \space segments \space more \space likely \space to \space return \space items — indicate \space dissatisfaction, \space poor \space product \space fit, \space or \space pricing \space concerns}$$
+
+📌 $${\color{green}And \space I \space Recommended \space that \space the \space company \space should;}$$
+
+- $${\color{green}Improve \space product \space descriptions, \space visuals, \space and \space packaging}$$
+- $${\color{green}Introduce \space a \space follow-up \space system \space to \space gather \space return \space reasons}$$
+- $${\color{green}Train \space customer \space service \space to \space reduce \space post-sale \space frustration}$$
 
 
 11. $${\color{red}Did \space KMS \space spend \space shipping \space costs \space appropriately \space based \space on \space Order \space Priority?}$$
@@ -439,7 +449,7 @@ RESULT
 
 👩‍💼 **Most Profitable Consumer**: [Emily Phan]
 
-🔄 **Returns Identified**: [419] customers, mostly in [segment]
+🔄 **Returns Identified**: [419] customers returned items, mostly in [Corporate Segment]
 
 ## $${\color{lightgreen}Recommendations – Scenario 2}$$
 
@@ -463,7 +473,7 @@ RESULT
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
 
-Focus Area					Expected Outcome
+### $${\color{lightblue}Focus \space Area}$$					### $${\color{lightblue}Expected \space Outcome}$$
 
 Product Strategy				Increased revenue from best sellers
 
