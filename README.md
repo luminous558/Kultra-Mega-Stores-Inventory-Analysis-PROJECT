@@ -373,9 +373,7 @@ RESULT
 
 - $${\color{green}Educate \space staff \space and \space system \space users \space about \space cost-efficient \space logistics}$$
 - $${\color{green}Monitor \space regularly \space with \space KPIs \space like \space “cost \space per \space delivery \space per \space priority \space level”}$$
-- $${\color{green}mode \space of \space shipping \space selection \space based \space on \space (order - priority)}$$
-
-
+- $${\color{green}Shipping-mode \space should \space be \space automated \space based \space on \space (order - priority)}$$
 
 # $${\color{blue}REPORT \space DOCUMENTATION \space IN \space PRESENTATION \space STRUCTURE}$$
 
