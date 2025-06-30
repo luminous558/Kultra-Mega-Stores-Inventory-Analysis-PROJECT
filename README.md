@@ -373,12 +373,11 @@ RESULT
 
 - $${\color{green}Educate \space staff \space and \space system \space users \space about \space cost-efficient \space logistics}$$
 - $${\color{green}Monitor \space regularly \space with \space KPIs \space like \space “cost \space per \space delivery \space per \space priority \space level”}$$
-
-- $${\color{green}Automate \space mode \space of \space shipping \space selection \space based \space on \space (order - priority)}$$
-
+- $${\color{green}mode \space of \space shipping \space selection \space based \space on \space (order - priority)}$$
 
 
-# $${\color{blue}Report \space Documentation \space in \space Presentation \space Structure}$$
+
+# $${\color{blue}REPORT \space DOCUMENTATION \space IN \space PRESENTATION \space STRUCTURE}$$
 
 ## $${\color{lightgreen}Title \space Slide}$$
 
@@ -494,11 +493,11 @@ Operational Control				Better logistics and workflow alignment
 - Reassess quarterly for performance improvement
 
 
-# $${\color{blue}Pictorial \space Worflow}$$
+# $${\color{blue}PICTORIAL \space WORKFLOW}$$
 
 
 ![Project Screenshot 3](https://github.com/user-attachments/assets/288bc581-6461-4fad-a105-b1e95819750b)
 ![Project Screenshot 2](https://github.com/user-attachments/assets/0d3c79e9-7cc8-4ee5-b5b2-f94341873685)
 
 
-# $${\color{blue}Conclusion}$$
+# $${\color{blue}CONCLUSION}$$
