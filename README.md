@@ -373,7 +373,8 @@ RESULT
 
 - $${\color{green}Educate \space staff \space and \space system \space users \space about \space cost-efficient \space logistics}$$
 - $${\color{green}Monitor \space regularly \space with \space KPIs \space like \space “cost \space per \space delivery \space per \space priority \space level”}$$
-- $${\color{green}Automate \space shipping \space mode \space selection \space based \space on \space order - priority}$$
+
+- $${\color{green}Automate \space mode \space of \space shipping \space selection \space based \space on \space (order - priority)}$$
 
 
 
@@ -415,3 +416,30 @@ RESULT
 - 💰 **Appliance Sales in Ontario**: $[3,063,212.47638369]
 
 - 🚚 **Highest Shipping Cost**: Delivery Truck (needs review)
+
+## $${\color{lightgreen}Recommendations – Scenario 1}$$
+
+1.  Focus on Best-Selling Categories
+
+ - Boost inventory & marketing for high-performing products
+
+2.  Improve Regional Sales Coverage
+
+ - Run localized promos in underperforming regions
+
+3.  Optimize Shipping Methods
+ -  Use Delivery Truck for low-priority orders
+ - Limit Express Air to urgent needs
+
+
+## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 2}$$
+
+💼 **Most Valuable Customers**: [Top 5 customers] – primarily buy [Technology Product follow by Furniture]
+
+🏢 **Top Small Business Customer**: [Dennis Kane]
+
+🏛️ **Most Active Corporate Client**: [Adam Hart] – highest number of orders
+
+👩‍💼 **Most Profitable Consumer**: [Emily Phan]
+
+🔄 **Returns Identified**: [419] customers, mostly in [segment]
