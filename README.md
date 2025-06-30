@@ -421,15 +421,15 @@ RESULT
 
 1.  Focus on Best-Selling Categories
 
-  - *Boost inventory & marketing for high-performing products*
+    - *Boost inventory & marketing for high-performing products*
 
 2.  Improve Regional Sales Coverage
 
-  - *Run localized promos in underperforming regions*
+    - *Run localized promos in underperforming regions*
 
 3.  Optimize Shipping Methods
-  -  *Use Delivery Truck for low-priority orders*
-  -  *Limit Express Air to urgent needs*
+    -  *Use Delivery Truck for low-priority orders*
+    -  *Limit Express Air to urgent needs*
 
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 2}$$
@@ -448,21 +448,21 @@ RESULT
 
 1. Engage High-Value Customers
 
-  - *Loyalty rewards, exclusive access, priority service*
+   - *Loyalty rewards, exclusive access, priority service*
 
 2. Target Corporate & Small Business Clients
 
-  - *Offer bulk discounts, dedicated account reps*
+   - *Offer bulk discounts, dedicated account reps*
 
 3. Address Customer Returns
 
-  - *Improve product accuracy, gather return reasons*
+   - *Improve product accuracy, gather return reasons*
 
 4. Align Shipping to Order Priority
 
-  - *Match critical orders with Express Air only*
+   - *Match critical orders with Express Air only*
 
-  - *Add system checks to flag mismatches*
+   - *Add system checks to flag mismatches*
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
 
@@ -492,3 +492,13 @@ Operational Control				Better logistics and workflow alignment
 
 
 - Reassess quarterly for performance improvement
+
+
+# $${\color{blue}Pictorial \space Worflow}$$
+
+
+![Project Screenshot 3](https://github.com/user-attachments/assets/288bc581-6461-4fad-a105-b1e95819750b)
+![Project Screenshot 2](https://github.com/user-attachments/assets/0d3c79e9-7cc8-4ee5-b5b2-f94341873685)
+
+
+# $${\color{blue}Conclusion}$$
