@@ -406,12 +406,12 @@ RESULT
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 1}$$
 
-- 📌 Top Product Category: [TECHNOLOGY] generated the highest revenue
+- 📌 **Top Product Category**: [TECHNOLOGY] generated the highest revenue
 
-- 🗺️ Top 3 Sales Regions: [WEST, ONTARIO, PRARIE]
+- 🗺️ **Top 3 Sales Regions**: [WEST, ONTARIO, PRARIE]
 
-- ⚠️ Bottom 3 Sales Regions: [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
+- ⚠️ **Bottom 3 Sales Regions**: [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
 
-- 💰 Appliance Sales in Ontario: $[XXX,XXX]
+- 💰 **Appliance Sales in Ontario**: $[3,063,212.47638369]
 
-- 🚚 Highest Shipping Cost: Express Air (needs review)
+- 🚚 **Highest Shipping Cost**: Delivery Truck (needs review)
