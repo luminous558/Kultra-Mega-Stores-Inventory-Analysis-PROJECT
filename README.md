@@ -421,15 +421,15 @@ RESULT
 
 1.  Focus on Best-Selling Categories
 
- - *Boost inventory & marketing for high-performing products*
+  - *Boost inventory & marketing for high-performing products*
 
 2.  Improve Regional Sales Coverage
 
- - *Run localized promos in underperforming regions*
+  - *Run localized promos in underperforming regions*
 
 3.  Optimize Shipping Methods
- -  *Use Delivery Truck for low-priority orders*
- -  *Limit Express Air to urgent needs*
+  -  *Use Delivery Truck for low-priority orders*
+  -  *Limit Express Air to urgent needs*
 
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 2}$$
@@ -448,20 +448,47 @@ RESULT
 
 1. Engage High-Value Customers
 
-- *Loyalty rewards, exclusive access, priority service*
+  - *Loyalty rewards, exclusive access, priority service*
 
 2. Target Corporate & Small Business Clients
 
-- *Offer bulk discounts, dedicated account reps*
+  - *Offer bulk discounts, dedicated account reps*
 
 3. Address Customer Returns
 
-- *Improve product accuracy, gather return reasons*
+  - *Improve product accuracy, gather return reasons*
 
 4. Align Shipping to Order Priority
 
-- *Match critical orders with Express Air only*
+  - *Match critical orders with Express Air only*
 
-- *Add system checks to flag mismatches*
+  - *Add system checks to flag mismatches*
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
+
+Focus Area					Expected Outcome
+
+Product Strategy				Increased revenue from best sellers
+
+
+Regional Expansion				Improved market share in underperforming areas
+
+
+Customer Retention				Stronger relationships, better repeat sales
+
+
+Cost Efficiency					Lowered shipping cost without hurting delivery
+
+
+Operational Control				Better logistics and workflow alignment
+
+
+## $${\color{lightgreen}Final \space Slide}$$
+
+- Implement recommendations across Abuja division
+
+
+- Monitor KPIs: customer growth, profit margin, shipping cost
+
+
+- Reassess quarterly for performance improvement
