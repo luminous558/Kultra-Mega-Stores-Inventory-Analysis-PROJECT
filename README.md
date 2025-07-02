@@ -4,7 +4,7 @@ This is my one of Case Study (Project) to work on as a Data Analyst during Incub
 # $${\color{blue}INTRODUCTION}$$
 Kultra Mega Stores (KMS) is a Lagos-based retail company specializing in office supplies and furniture. The company serves a diverse customer base comprising individual consumers, small businesses (retail), and large corporate clients (wholesale) throughout Lagos, Nigeria. As part of KMS’s expansion and performance tracking efforts in the Abuja division, I have been engaged as a Business Intelligence Analyst to support data-driven decision-making. My role involves analyzing historical order data provided, which spans the period from 2009 to 2012. Using SQL skills, I will examine this dataset to uncover key business insights. These insights aim to support the Abuja division’s strategy in areas such as customer segmentation, sales performance, product demand, and operational efficiency. The analysis will be guided by some given case scenarios, and the final output will include actionable findings, visualizations, and recommendations based on trends and patterns observed in the data.
 
-# $${\color{blue}OBJECTIVE \space \space STATEMENT}$$
+# $${\color{blue}OBJECTIVE \space \space STATEMENT}$$ 
 
 The objective of this analysis is to evaluate historical sales and order data for Kultra Mega Stores (KMS) with the goal of identifying key business insights that can inform strategic decisions for the Abuja division. Specifically, the analysis aims to:
 - Understand sales trends and performance across customer segments (individual, retail, and wholesale)
@@ -414,15 +414,15 @@ RESULT
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 1}$$
 
-- 📌 **Top Product Category**:  [TECHNOLOGY] generated the highest revenue
+- 📌 **Top Product Category**: \space \space \space [TECHNOLOGY] generated the highest revenue
 
-- 🗺️ **Top 3 Sales Regions**:  [WEST, ONTARIO, PRARIE]
+- 🗺️ **Top 3 Sales Regions**: \space \space \space [WEST, ONTARIO, PRARIE]
 
-- ⚠️ **Bottom 3 Sales Regions**:  [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
+- ⚠️ **Bottom 3 Sales Regions**: \space \space \space [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
 
-- 💰 **Appliance Sales in Ontario**:  $[3,063,212.47638369]
+- 💰 **Appliance Sales in Ontario**: \space \space \space $[3,063,212.47638369]
 
-- 🚚 **Highest Shipping Cost**:  Delivery Truck (needs review)
+- 🚚 **Highest Shipping Cost**: \space \space \space Delivery Truck (needs review)
 
 ## $${\color{lightgreen}Recommendations – Scenario 1}$$
 
@@ -441,15 +441,15 @@ RESULT
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 2}$$
 
-💼 **Most Valuable Customers**: [Top 5 customers] – primarily buy [Technology Product follow by Furniture]
+💼 **Most Valuable Customers**: \space \space \space [Top 5 customers] – primarily buy [Technology Product follow by Furniture]
 
-🏢 **Top Small Business Customer**: [Dennis Kane]
+🏢 **Top Small Business Customer**: \space \space \space [Dennis Kane]
 
-🏛️ **Most Active Corporate Client**: [Adam Hart] – highest number of orders
+🏛️ **Most Active Corporate Client**: \space \space \space [Adam Hart] – highest number of orders
 
-👩‍💼 **Most Profitable Consumer**: [Emily Phan]
+👩‍💼 **Most Profitable Consumer**: \space \space \space [Emily Phan]
 
-🔄 **Returns Identified**: [419] customers returned items, mostly in [Corporate Segment]
+🔄 **Returns Identified**: \space \space \space [419] customers returned items, mostly in [Corporate Segment]
 
 ## $${\color{lightgreen}Recommendations – Scenario 2}$$
 
@@ -473,21 +473,21 @@ RESULT
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
 
-### $${\color{lightblue}Focus \space Area}$$ |		 $${\color{lightblue}Expected \space Outcome}$$
+### $${\color{lightblue}Focus \space Area}$$ \space \space \space \space \space \space \space \space \space $${\color{lightblue}Expected \space Outcome}$$
 
-Product Strategy				Increased revenue from best sellers
-
-
-Regional Expansion				Improved market share in underperforming areas
+Product Strategy \space \space \space \space \space \space \space \space \space Increased revenue from best sellers:
 
 
-Customer Retention				Stronger relationships, better repeat sales
+Regional Expansion \space \space \space \space \space \space \space \space \space Improved market share in underperforming areas
 
 
-Cost Efficiency					Lowered shipping cost without hurting delivery
+Customer Retention \space \space \space\space \space \space\space \space \space Stronger relationships, better repeat sales
 
 
-Operational Control				Better logistics and workflow alignment
+Cost Efficiency \space \space \space \space \space \space \space \space \space Lowered shipping cost without hurting delivery
+
+
+Operational Control \space \space \space \space \space \space \space \space \space Better logistics and workflow alignment
 
 
 ## $${\color{lightgreen}Final \space Slide}$$
