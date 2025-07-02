@@ -414,15 +414,15 @@ RESULT
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 1}$$
 
-- 📌 **Top Product Category**: \space \space \space [TECHNOLOGY] generated the highest revenue
+- 📌 **Top Product Category**: 	 [TECHNOLOGY] generated the highest revenue
 
-- 🗺️ **Top 3 Sales Regions**: \space \space \space [WEST, ONTARIO, PRARIE]
+- 🗺️ **Top 3 Sales Regions**: 		 [WEST, ONTARIO, PRARIE]
 
-- ⚠️ **Bottom 3 Sales Regions**: \space \space \space [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
+- ⚠️ **Bottom 3 Sales Regions**: 	 [NUNAVUT, NORTHWEST TERRITORIES, YUKON]
 
-- 💰 **Appliance Sales in Ontario**: \space \space \space $[3,063,212.47638369]
+- 💰 **Appliance Sales in Ontario**: 	 $[3,063,212.47638369]
 
-- 🚚 **Highest Shipping Cost**: \space \space \space Delivery Truck (needs review)
+- 🚚 **Highest Shipping Cost**: 	 Delivery Truck (needs review)
 
 ## $${\color{lightgreen}Recommendations – Scenario 1}$$
 
@@ -441,15 +441,15 @@ RESULT
 
 ## $${\color{lightgreen}Top \space Insights \space from \space Case \space Scenario \space 2}$$
 
-💼 **Most Valuable Customers**: \space \space \space [Top 5 customers] – primarily buy [Technology Product follow by Furniture]
+💼 **Most Valuable Customers**: 	 [Top 5 customers] – primarily buy [Technology Product follow by Furniture]
 
-🏢 **Top Small Business Customer**: \space \space \space [Dennis Kane]
+🏢 **Top Small Business Customer**: 	 [Dennis Kane]
 
-🏛️ **Most Active Corporate Client**: \space \space \space [Adam Hart] – highest number of orders
+🏛️ **Most Active Corporate Client**: 	 [Adam Hart] – highest number of orders
 
-👩‍💼 **Most Profitable Consumer**: \space \space \space [Emily Phan]
+👩‍💼 **Most Profitable Consumer**: 	 [Emily Phan]
 
-🔄 **Returns Identified**: \space \space \space [419] customers returned items, mostly in [Corporate Segment]
+🔄 **Returns Identified**: 		 [419] customers returned items, mostly in [Corporate Segment]
 
 ## $${\color{lightgreen}Recommendations – Scenario 2}$$
 
@@ -473,32 +473,32 @@ RESULT
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
 
-### $${\color{lightblue}Focus \space Area}$$ \space \space \space \space \space \space \space \space \space $${\color{lightblue}Expected \space Outcome}$$
+### $${\color{lightblue}Focus \space Area}$$ \space \space \space \space \space \space \space \space \space \space \space \space\space \space \space Expected \space Outcome}$$
 
-Product Strategy \space \space \space \space \space \space \space \space \space Increased revenue from best sellers:
-
-
-Regional Expansion \space \space \space \space \space \space \space \space \space Improved market share in underperforming areas
+$${\color{lightblue}Product Strategy \space \space \space \space \space \space \space \space \space \space \space \space \space Increased revenue from best sellers}$$
 
 
-Customer Retention \space \space \space\space \space \space\space \space \space Stronger relationships, better repeat sales
+$${\color{lightblue}Regional Expansion \space \space \space \space \space \space \space \space \space \space \space \space \space Improved market share in underperforming areas}$$
 
 
-Cost Efficiency \space \space \space \space \space \space \space \space \space Lowered shipping cost without hurting delivery
+$${\color{lightblue}Customer Retention \space \space \space\space \space \space\space \space \space \space \space \space \space Stronger relationships, better repeat sales}$$
 
 
-Operational Control \space \space \space \space \space \space \space \space \space Better logistics and workflow alignment
+$${\color{lightblue}Cost Efficiency \space \space \space \space \space \space \space \space \space \space \space \space \space Lowered shipping cost without hurting delivery}$$
+
+
+$${\color{lightblue}Operational Control \space \space \space \space \space \space \space \space \space \space \space \space \space Better logistics and workflow alignment}$$
 
 
 ## $${\color{lightgreen}Final \space Slide}$$
 
-- Implement recommendations across Abuja division
+- **Implement recommendations** across Abuja division
 
 
-- Monitor KPIs: customer growth, profit margin, shipping cost
+- **Monitor KPIs**: customer growth, profit margin, shipping cost
 
 
-- Reassess quarterly for performance improvement
+- **Reassess quarterly** for performance improvement
 
 
 # $${\color{blue}PICTORIAL \space WORKFLOW}$$
