@@ -473,7 +473,7 @@ RESULT
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
 
- $${\color{Aqua}**[Focus \space Area]** \space \space \space \space \space \space \space \space \space \space \space \space\space \space \space **[Expected \space Outcome]**}$$
+$${\color{Aqua}**[Focus \space Area]** \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space\space \space \space **[Expected \space Outcome]**}$$
 
 $${\color{lightblue}[Product \space Strategy] \space \space \space \space \space \space \space \space \space \space \space \space \space Increased \space revenue \space from \space best \space sellers}$$
 
