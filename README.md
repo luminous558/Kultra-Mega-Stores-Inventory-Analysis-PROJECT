@@ -19,14 +19,14 @@ This will be achieved through structured SQL queries and data modeling technique
 
 The methodology for this project follows a structured approach to ensure accurate, actionable, and insightful analysis of Kultra Mega Stores’ (KMS) order data from 2009 to 2012. The steps below outline the process used to address both case scenarios shared by the Business Manager, using SQL and business analysis techniques:
 
-  1.  ## **$${\color{Lightblue}Business \space Context}$$**
+  1.  ## **$${\color{Aqua}Business \space Context}$$**
       - **Company:** Kultra Mega Stores (KMS)
       - **Division of Interest:** Abuja
       - **Products:** Office supplies and furniture
       - **Customer Segments:** Individual, Retail (small businesses), Wholesale (large corporate clients)
       - **Goal:** Provide key insights based on sales data (2009–2012) to support decision-making for the Abuja branch.
 
-  2. ## **$${\color{Lightblue}Analysis \space \space Objectives \space Case \space Scenario \space I}$$**
+  2. ## **$${\color{Aqua}Analysis \space \space Objectives \space Case \space Scenario \space I}$$**
      - Which product category had the highest sales?
 
      - What are the Top 3 and Bottom 3 regions in terms of sales?
@@ -37,7 +37,7 @@ The methodology for this project follows a structured approach to ensure accurat
 
      - KMS incurred the most shipping cost using which shipping method?
 
-  3. ## **$${\color{Lightblue}Case \space Scenario \space II}$$**
+  3. ## **$${\color{Aqua}Case \space Scenario \space II}$$**
      - Who are the most valuable customers, and what products or services do they typically purchase?
 
      - Which small business customer had the highest sales?
@@ -50,7 +50,7 @@ The methodology for this project follows a structured approach to ensure accurat
 
      - If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.
     
-  4. ## **$${\color{Lightblue}Data \space Preparation(ETL \space Process)}$$**
+  4. ## **$${\color{Aqua}Data \space Preparation(ETL \space Process)}$$**
  - **Extraction**
    - Extraction was done by using excel tools and the file was saved in Csv format in other to be loaded in to SQL Properly
 
@@ -64,7 +64,7 @@ The methodology for this project follows a structured approach to ensure accurat
  - **Loading**
      - Cleaned data was loaded into SQL Database
 
-  5. ## **$${\color{Lightblue}SQL \space Queries \space Design \space to \space solve \space the \space given \space Case \space Scenarios}$$**
+  5. ## **$${\color{Aqua}SQL \space Queries \space Design \space to \space solve \space the \space given \space Case \space Scenarios}$$**
   ### **Case Scenario 1** *Approach & SQL Logic*
 
 1. $${\color{red}Which \space product \space category \space had \space the \space highest \space sales?}$$
@@ -473,21 +473,21 @@ RESULT
 
 ## $${\color{lightgreen}Strategic \space Benefits}$$
 
-### $${\color{lightblue}Focus \space Area}$$ \space \space \space \space \space \space \space \space \space \space \space \space\space \space \space Expected \space Outcome}$$
+ $${\color{Aqua}**[Focus \space Area]** \space \space \space \space \space \space \space \space \space \space \space \space\space \space \space **[Expected \space Outcome]**}$$
 
-$${\color{lightblue}Product Strategy \space \space \space \space \space \space \space \space \space \space \space \space \space Increased revenue from best sellers}$$
-
-
-$${\color{lightblue}Regional Expansion \space \space \space \space \space \space \space \space \space \space \space \space \space Improved market share in underperforming areas}$$
+$${\color{lightblue}[Product \space Strategy] \space \space \space \space \space \space \space \space \space \space \space \space \space Increased \space revenue \space from \space best \space sellers}$$
 
 
-$${\color{lightblue}Customer Retention \space \space \space\space \space \space\space \space \space \space \space \space \space Stronger relationships, better repeat sales}$$
+$${\color{lightblue}[Regional \space Expansion] \space \space \space \space \space \space \space \space \space \space \space \space \space Improved \space market \space share \space in \space underperforming \space areas}$$
 
 
-$${\color{lightblue}Cost Efficiency \space \space \space \space \space \space \space \space \space \space \space \space \space Lowered shipping cost without hurting delivery}$$
+$${\color{lightblue}[Customer \space Retention] \space \space \space\space \space \space\space \space \space \space \space \space \space Stronger \space relationships, \space better \space repeat \space sales}$$
 
 
-$${\color{lightblue}Operational Control \space \space \space \space \space \space \space \space \space \space \space \space \space Better logistics and workflow alignment}$$
+$${\color{lightblue}[Cost \space Efficiency] \space \space \space \space \space \space \space \space \space \space \space \space \space Lowered \space shipping \space cost \space without \space hurting \space delivery}$$
+
+
+$${\color{lightblue}[Operational \space Control] \space \space \space \space \space \space \space \space \space \space \space \space \space Better \space logistics \space and \space workflow \space alignment}$$
 
 
 ## $${\color{lightgreen}Final \space Slide}$$
