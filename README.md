@@ -503,8 +503,20 @@ $${\color{lightblue}[Operational \space Control] \space \space \space \space \sp
 
 # $${\color{blue}PICTORIAL \space WORKFLOW}$$
 
+1.
+<img width="1364" height="726" alt="SQL 1" src="https://github.com/user-attachments/assets/8e8eaee4-b05c-4cb2-b67b-dfe3179746ca" />
 
+2.
+<img width="1364" height="728" alt="SQL 2" src="https://github.com/user-attachments/assets/d059a9b0-a673-43aa-b977-fdfe7892d6f2" />
+
+3.
 ![Project Screenshot 3](https://github.com/user-attachments/assets/288bc581-6461-4fad-a105-b1e95819750b)
+
+
+4.
+<img width="1363" height="727" alt="SQL 3" src="https://github.com/user-attachments/assets/2d5cef00-9979-4e26-8319-48bff883f871" />
+
+5.
 ![Project Screenshot 2](https://github.com/user-attachments/assets/0d3c79e9-7cc8-4ee5-b5b2-f94341873685)
 
 
