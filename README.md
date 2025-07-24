@@ -537,3 +537,8 @@ By implementing the recommendations outlined across both case scenarios, KMS—e
 - And reduce unnecessary operational costs, particularly in logistics.
 
 Ultimately, this data-driven approach enables KMS to make smarter, faster, and more strategic decisions that align with its long-term business goals.
+
+
+
+## Dataset link
+https://drive.google.com/file/d/1XJggfREyJeVn1-5cNAKWdLlqBNmHxmNI/view?usp=drivesdk
